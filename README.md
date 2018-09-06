@@ -1,2 +1,2 @@
-# Lj-og-leikur
+# Ljod-og-leikur
 Verkefni 1
